@@ -1,0 +1,12 @@
+{% extends "jag/base.html" %}
+
+{% block content %}
+<h1>Categories</h1>
+<ol id="categories">
+    <li><h2><a href="{% url 'jag-mobile' %}" style="color: green;">Mobiles</a></h2></li>
+    <li><h2><a href="{% url 'jag-laptop' %}" style="color: green;">Laptops</a></h2></li>
+    <li><h2><a href="{% url 'jag-painting' %}" style="color: green;">Paintings</a></h2></li>
+    <li><h2><a href="{% url 'jag-canvas' %}" style="color: green;">Canvas</a></h2></li>
+    <li><h2><a href="{% url 'jag-clothing' %}" style="color: green;">Clothing</a></h2></li>
+</ol>
+{% endblock content %}
