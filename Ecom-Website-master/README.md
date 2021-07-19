@@ -23,7 +23,8 @@
 
 
 # `Redirected to Login page`
-![Screenshot (154)](https://user-images.githubusercontent.com/77093450/119027311-cf24f880-b9c3-11eb-8def-ef07f726d5f7.png)
+![image](https://user-images.githubusercontent.com/72252670/126105128-001d0def-b484-4ec7-87fe-0b71c68e215b.png)
+
 
 
 # `After user logged in it redirects to order succesful page`
